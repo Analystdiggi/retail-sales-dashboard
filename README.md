@@ -16,14 +16,7 @@ This Power BI dashboard was built to analyze retail sales data across products, 
 - DAX
 - Excel
 
-📸 Screenshot
-[Dashboard Preview](dashboard.png)
 
-📁 File
- [`retail_sales_dashboard.pbix`](retail_sales_dashboard.pbix)
-
-📄 Insights
-See [Executive Summary](insights/executive_summary.md) for key findings and recommendations.
 
 👤 Author
-Digpal Singh – [LinkedIn](https://linkedin.com/in/diggisingh)
+Digpal Singh – [LinkedIn](https://www.linkedin.com/in/diggisingh)
