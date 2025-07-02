@@ -6,7 +6,8 @@ This Power BI dashboard was built to analyze retail sales data across products, 
 📈 Key Features
 - Total Sales KPI Card
 - Line Chart: Sales over time
-- Pie + Bar Chart: Sales by Segment
+- Bar Chart: Sales by Region
+- Pie Chart: Sales by Segment
 - Table: Top 10 Products by Sales and Profit
 - Slicers: Region, Segment, Month/Year
 
